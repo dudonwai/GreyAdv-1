@@ -436,12 +436,12 @@ main[role="main"], #fh5co-blog {
   opacity: 0;
 }
 .nav-active #fh5co-main-nav-wrap #fh5co-main-nav li a {
+  font-size: 35px;
   font-size: 40px;
-  font-size: 52px;
   font-family: "Montserrat", sans-serif;
   color: #ffffff;
   display: block;
-  padding: 30px 0;
+  padding: 20px 0;
 }
 .nav-active #fh5co-main-nav-wrap #fh5co-main-nav li a:hover {
   color: #28bbf8;
