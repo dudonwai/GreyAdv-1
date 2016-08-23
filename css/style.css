@@ -1247,6 +1247,7 @@ Components
   background-size: cover;
   background-attachment: fixed;
   position: relative;
+  padding-top: 50px;
 }
 .fh5co-call-to-action .fh5co-call-to-action-text {
   font-size: 50px;
@@ -1430,3 +1431,13 @@ a > img.fh5co-align-center {
 .fh5co-with-caption {
   margin-bottom:2vw;
 }
+/*#mc_embed_signup{
+  background:#fff; 
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+  padding-bottom: 50px;
+}
+#mc-embedded-subscribe-form{
+  padding-bottom: 50px;}
+}
+*/
